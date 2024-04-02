@@ -49,3 +49,12 @@ Tenemos un registro de ventas, de los últimos 8 años, de un almacén de insumo
 4. El año de mayor rentabilidad hasta el momento fue el 2016, seguido del 2021, en el cual se vuelve a tener como producto con mayor rentabilidad a los cierres, por lo cual se debe a apuntar a mejorar el portafolio en este sector, los hilos siguen siendo el producto de mayor venta, lo que indica que a pesar de que su rentabilidad no es buena es un producto que no debe faltar.
 
 5 Los productos complemetarios tienen mejor rentabilidad que los hilos, se propone incrementar su oferta para contribuir en mayor medida a mejorar la retabilidad neta.
+
+# ***Generación de valor:***
+
+*Gloria Judith Trujillo, administradora almacén*: 
+
+*"Conocer la realidad de las ventas del almacén, nos permite tomar decisiones precisas sobre los cambios que se deben hacer, para seguir creciendo. Por ejemplo:* 
+
+*Dada la realidad de los datos, vale la pena aumentar la oferta de los productos complementarios, en lugar de seguir aumentando solo el portafolio de hilos"*
+
