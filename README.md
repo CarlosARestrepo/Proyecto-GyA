@@ -31,4 +31,21 @@ Tenemos un registro de ventas, de los últimos 8 años, de un almacén de insumo
 
 # ***Base de datos:***
 
-*.  Datos conservados: 99.9%, equivalente a 156.816 registros
+**Datos conservados: 99.9%, equivalente a 156.816 registros. 6 columnas, 156.816 registros**
+
+*Se eliminaron registros de rentabilidad y fecha incongruente.*
+
+*Se eliminó la columna "Unidad de medida" porque no aporta información en el análisis sobre rentabilidad.*
+
+*Se corrigió la asignación de sectores erroneos.*
+
+# ***Conclusiones:***
+1. En los gráficos se pudo observar que el producto que más se vende son los hilos es el que menor rentabilidad le deja a la empresa, y que productos de alta rentabilidad como son los cierres y el cacharro no se les da mucha importancia por sus bajas ventas pero claramente son la clase de productos que hay que potenciar para tener mejores dividendos.
+
+2. Los productos estrella de la empresa son las hilazas, pues tienen un buen volumen de ventas y una buena rentabilidad, por lo cual sería idóneo invertir más en ese sector.
+
+3. El valor de las ventas ha aumentado año a año desde 2016 lo que da buenas señales en cuanto al crecimiento del negocio, por lo cual la prioridad debe estar en el incremento de ganancias potenciando a los productos que mayor rentabilidad dejan.
+
+4. El año de mayor rentabilidad hasta el momento fue el 2016, seguido del 2021, en el cual se vuelve a tener como producto con mayor rentabilidad a los cierres, por lo cual se debe a apuntar a mejorar el portafolio en este sector, los hilos siguen siendo el producto de mayor venta, lo que indica que a pesar de que su rentabilidad no es buena es un producto que no debe faltar.
+
+5 Los productos complemetarios tienen mejor rentabilidad que los hilos, se propone incrementar su oferta para contribuir en mayor medida a mejorar la retabilidad neta.
