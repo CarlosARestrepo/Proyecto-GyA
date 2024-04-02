@@ -33,11 +33,11 @@ Tenemos un registro de ventas, de los últimos 8 años, de un almacén de insumo
 
 **Datos conservados: 99.9%, equivalente a 156.816 registros. 6 columnas, 156.816 registros**
 
-*Se eliminaron registros de rentabilidad y fecha incongruente.*
+- *Se eliminaron registros de rentabilidad y fecha incongruente.*
 
-*Se eliminó la columna "Unidad de medida" porque no aporta información en el análisis sobre rentabilidad.*
+- *Se eliminó la columna "Unidad de medida" porque no aporta información en el análisis sobre rentabilidad.*
 
-*Se corrigió la asignación de sectores erroneos.*
+- *Se corrigió la asignación de sectores erroneos.*
 
 # ***Conclusiones:***
 1. En los gráficos se pudo observar que el producto que más se vende son los hilos es el que menor rentabilidad le deja a la empresa, y que productos de alta rentabilidad como son los cierres y el cacharro no se les da mucha importancia por sus bajas ventas pero claramente son la clase de productos que hay que potenciar para tener mejores dividendos.
